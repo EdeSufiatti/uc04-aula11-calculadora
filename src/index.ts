@@ -7,7 +7,13 @@ import Scanner from "@codeea/scanner";
 // soma, subtração, divisão e multiplicação
 
 
-//criar uma função
+
+//soma
+//subtração
+//divisão
+//multiplcacao
+
+
 
 async function main() {
 
@@ -88,12 +94,6 @@ async function main() {
   } while (operacao !== 0)
   scanner.close();
   console.log("Opção 0 escolhida- Programa encerrado")
-
-  //soma
-  //subtração
-  //divisão
-  //multiplcacao
-
 
 }
 main()
